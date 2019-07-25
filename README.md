@@ -15,7 +15,6 @@ MacOs/Linux environment
 ### Features
 
 ```
-
 - 4 fractals available
 - movement using arrows
 - Infinite zoom to test self similarity through the mouse wheel
@@ -23,23 +22,23 @@ MacOs/Linux environment
 
 ```
 
-#### Julia fractal
+### Julia fractal
 
 <img alt="sample" src="./readme_img/julia1.png" width="100%" title="profile">
 <img alt="sample" src="./readme_img/julia2.png" width="100%" title="profile">
 <img alt="sample" src="./readme_img/julia3.png" width="100%" title="profile">
 
-#### Mandelbrot fractal
+### Mandelbrot fractal
 
 <img alt="sample" src="./readme_img/mand1.png" width="100%" title="profile">
 
-#### Newton fractal
+### Newton fractal
 
 <img alt="sample" src="./readme_img/new1.png" width="100%" title="profile">
-
-#### Newton fractal
-
 <img alt="sample" src="./readme_img/new2.png" width="100%" title="profile">
 <img alt="sample" src="./readme_img/new3.png" width="100%" title="profile">
+
+### Burning Ship fractal
+
 <img alt="sample" src="./readme_img/ship.png" width="100%" title="profile">
 
