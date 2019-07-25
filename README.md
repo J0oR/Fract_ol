@@ -22,6 +22,15 @@ MacOs/Linux environment
 
 ```
 
+### Developed with
+
+```
+
+C
+
+MinilibX (Ecole 42 graphic library)
+
+```
 
 ### Julia fractal
 
