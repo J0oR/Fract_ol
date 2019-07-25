@@ -9,17 +9,19 @@ Computer graphics project, consisting in visual representation of fractal figure
 MacOs/Linux environment
 ```
 ### Usage
-```
 
 <img alt="sample" src="./readme_img/usage.png" width="100%" title="profile">
 
+### Features
+
 ```
 
-### Features
 - 4 fractals available
 - movement using arrows
 - Infinite zoom to test self similarity through the mouse wheel
 - the julia ensemble will take place by changing its shape following the mouse movement
+
+```
 
 #### Julia fractal
 
